@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @habekele
+- 👋 Hi, I’m Henok Bekele
 - 👀 I’m interested in Web Development and Cloud Computing
 - 🌱 I’m currently learning React and Python
 - 💞️ I’m looking to collaborate on a Web App
