@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henok Bekele
-- 👀 I’m interested in Web Development and Cloud Computing
+- 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning React and Python
 - 💞️ I’m looking to collaborate on a Web App
 - 📫 How to reach me: henokbekele1997@gmail.com
