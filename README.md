@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henok Bekele
-- 👀 I’m interested in Web Development and Machine Learning
+- 👀 I’m interested in Software Development and Machine Learning
 - 🌱 I’m currently learning React and .Net
 - 💞️ I’m looking to collaborate on a Web App
 - 📫 How to reach me: henokbekele1997@gmail.com
